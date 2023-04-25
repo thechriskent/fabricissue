@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "fifteentwo",
+    "libraryId": "7a64fcf6-2344-4969-a99f-837f23469844",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fifteentwo",
+    "solutionShortDescription": "fifteentwo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

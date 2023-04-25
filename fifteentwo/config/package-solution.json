@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fifteentwo-client-side-solution",
+    "id": "7a64fcf6-2344-4969-a99f-837f23469844",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fifteentwo description"
+      },
+      "longDescription": {
+        "default": "fifteentwo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fifteentwo Feature",
+        "description": "The feature that activates elements of the fifteentwo solution.",
+        "id": "e100068a-32bc-42bb-9afd-52d3105aa451",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fifteentwo.sppkg"
+  }
+}
